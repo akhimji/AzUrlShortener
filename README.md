@@ -137,5 +137,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [glo]: https://github.com/microsoft/AzUrlShortener/raw/main/Media/glo-board_screenshot.png
 [AzFunctionGitSync]: https://github.com/microsoft/AzUrlShortener/raw/main/Media/AzFunctionGitSync.png
 
-
-#
