@@ -136,4 +136,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [ThumbnailYTAzUrlShortener_EN]: https://github.com/microsoft/AzUrlShortener/raw/main/Media/ThumbnailYTAzUrlShortener_EN.png
 [glo]: https://github.com/microsoft/AzUrlShortener/raw/main/Media/glo-board_screenshot.png
 [AzFunctionGitSync]: https://github.com/microsoft/AzUrlShortener/raw/main/Media/AzFunctionGitSync.png
-
